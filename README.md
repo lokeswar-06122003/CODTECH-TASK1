@@ -43,3 +43,5 @@ Key Components:
 5. Looping Through Input:
    - For each calculation, the user is asked to input multiple numbers, and these numbers are stored in a list. The chosen function is then applied to this list.
 This design allows the calculator to handle any number of input values for each operation, making it versatile and scalable for multi-digit calculations.
+
+
