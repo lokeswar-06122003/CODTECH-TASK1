@@ -44,4 +44,5 @@ Key Components:
    - For each calculation, the user is asked to input multiple numbers, and these numbers are stored in a list. The chosen function is then applied to this list.
 This design allows the calculator to handle any number of input values for each operation, making it versatile and scalable for multi-digit calculations.
 
+![Screenshot 2024-09-09 191051](https://github.com/user-attachments/assets/dcbd1be9-0c36-4aa1-91d0-77ac887795ed)
 
